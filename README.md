@@ -1,5 +1,5 @@
 # Logos for cloudflare application
-This repo is used for assign logo to self-hosted [cloudflare applications](https://developers.cloudflare.com/cloudflare-one/applications/).
+This repo is used for assigning logo to self-hosted [cloudflare applications](https://developers.cloudflare.com/cloudflare-one/applications/).
 
 ## Supported logos
 - Application: [Proxmox Virtual Environment](https://www.proxmox.com/)
